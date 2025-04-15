@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+
+main .Foto .imagem {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+main .conteudo
+
+.conteudo1 {
+    position: absolute;
+    top: 0;
+    justify-content: center;
+    font-size: 40px;
+    line-height: 100vh;
+    left: 200px;
+    max-width: 380px;
+    color: #ffffff;
+}
+
+.conteudo2 {
+    position: absolute;
+    top: 0;
+    justify-content: center;
+    font-size: 40px;
+    line-height: 100vh;
+    left: 200px;
+    max-width: 380px;
+    color: #ffffff;
+    min-width: auto;
+}
